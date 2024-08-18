@@ -53,6 +53,10 @@ All the details about this step are contained in the `UEFA_Champions_League.ipyn
 
 ### Exploratory Data Analysis
 Exploratory Data Analysis (EDA) process consists of exploring the dataset to answer key questions, such as:
+- Which teams have been the most successful in terms of wins, finals appearances, and consistent performance?
+- Which countries have produced the most successful teams?
+- How do teams' performances differ when playing at home versus away?
+- What are the trends in match attendance over the years, and how do they vary by country or venue?
 
 
 ## Results and findings
