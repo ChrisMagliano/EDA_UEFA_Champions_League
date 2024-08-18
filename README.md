@@ -20,25 +20,25 @@ The datasets used in this project "UCL_AllTime_Performance_Table.csv" and "UCL_F
 We acknwoledge the [Fardifa Fathmiul Alam](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023 for the detailed data files description listed below.
 
 **Finals Details (1955-56 to 2022-23)**
-- Season: The football season during which the final was played.
-- Country: The home country of the winning team.
-- Winners: The name of the winning team.
-- Score: The final score at the end of the match.
-- Runners-up: The team that finished second.
-- Country: The home country of the runners-up.
-- Venue: Location of the final match.
-- Attendance: Number of spectators present at the venue.
-- Notes: Additional information such as whether the match went into extra time or any other notable events.
+- `Season`: The football season during which the final was played.
+- `Country`: The home country of the winning team.
+- `Winners`: The name of the winning team.
+- `Score`: The final score at the end of the match.
+- `Runners-up`: The team that finished second.
+- `Country`: The home country of the runners-up.
+- `Venue`: Location of the final match.
+- `Attendance`: Number of spectators present at the venue.
+- `Notes`: Additional information such as whether the match went into extra time or any other notable events.
 
 **Team Performances (Aggregate Data)**
-- Team: Name of the team.
-- M. (Matches Played): Total number of matches played by the team in the Champions League.
-- W (Wins): Total wins.
-- D (Draws): Total draws.
-- L (Losses): Total losses.
-- Goals: Goals scored against goals conceded.
-- Dif (Goal Difference): Goal difference.
-- Pt (Points): Points accumulated based on match outcomes.
+- `Team`: Name of the team.
+- `M.` (Matches Played): Total number of matches played by the team in the Champions League.
+- `W` (Wins): Total wins.
+- `D` (Draws): Total draws.
+- `L` (Losses): Total losses.
+- `Goals`: Goals scored against goals conceded.
+- `Dif` (Goal Difference): Goal difference.
+- `Pt` (Points): Points accumulated based on match outcomes.
 
 ### Tools
 The whole data preprocessing and visualization has been performed by means of [Python](https://www.python.org/downloads/) programming language and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the "UEFA_Champions_League.ipynb" file.
