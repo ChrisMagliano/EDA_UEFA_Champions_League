@@ -1,4 +1,4 @@
-# UEFA Champions League 1953-2023
+# UEFA Champions League 1955-2023
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -13,7 +13,7 @@
  
 
 ### Project Overview
-In this project I have performed a complete Data Exploration of the 
+In this project I have performed a complete Data Exploration of the UEFA Champions League history from 1955-56 season through to the 2022-23 season.
 
 ### Data Sources
 The datasets used in this project "UCL_AllTime_Performance_Table.csv" and "UCL_Finals_1955-2023.csv" were retrieved on [Kaggle](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023). 
