@@ -60,7 +60,9 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 
 
 ## Results and findings
-Our comprehensive analysis of the UCL from the 1955-56 season to the 2022-23 season reveals several key insights into the competition's evolution and dynamics. Firstly we examined which teams dominate the competition based on their appearences and wins. 
+Our comprehensive analysis of the UCL from the 1955-56 season to the 2022-23 season reveals several key insights into the competition's evolution and dynamics. 
+### Team performances
+Firstly we examined which teams dominate the competition based on their appearences and wins. 
 ![top10_matches](https://github.com/user-attachments/assets/0eb98b93-e4a6-4e21-81ba-bb6c48722c3d)
 The previous plot clearly shows that **Real Madrid** is the most notable team in UCL competition with almost 500 games and nearly 300 wins.
 The second team per played matches is **Bayern Munich** followed by **FC Barcelona**. Both teams played more than 300 matches in UCL but less than 400. It is impressive to notice that Real Madrid's wins almost corresponds to the total number of matches played by **Juventus** in its history, that is fourth in this classification.
@@ -82,8 +84,11 @@ Thus, this analysis would indicate that the process of learning and gaining expe
 </p>
 This result would make up a zero order step for a Machine Learning predictive algorithm as well as an interesting case of study for behavioral science. 
 
+We conclude this subsection with the correlation matrix of some features of our dasets as shown below.
 ![all_time_corr](https://github.com/user-attachments/assets/3737b366-1b11-4caa-ab16-0c661ee5f2c3)
+As expected the number of matches shows a slight positive correlation with the win ratio, as more wins typically result in more matches played. Similarly, the number of matches is negatively correlated with the loss ratio. Indeed, prior to 1991, the UEFA Champions League featured only a knockout format, so a single loss would eliminate a team from the competition. Since 1991, the competition has been revised to include a group stage, which ensures a minimum number of matches before teams advance to the knockout rounds.
 
+### Finals analysis
 ![top5_scores](https://github.com/user-attachments/assets/e150bb7b-b8c3-4541-b761-6610a30d2843)
 
 ![goals_per_decade](https://github.com/user-attachments/assets/c288a0d5-e4a5-4154-aeeb-7e2fe0a6545a)
