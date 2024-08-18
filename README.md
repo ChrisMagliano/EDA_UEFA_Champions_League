@@ -134,7 +134,8 @@ As already mentioned in the case of 1957 final, the attendance fluctuations are 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e22e9e72-4911-4d18-8ddb-5770ad8aa606" alt="matches_wins" width="600"/>
 </p>
-There is a clear difference between the two distributions, with the former (goals scored by team playing in their home country) shifted towards larger values on average with respect to the latter. We statistically confirmed this difference by employing the *Mann-Whitney U test* that allows us to reject the null hypothesis (i.e. the two samples come from the same distribution) with a $p<0.05$. 
+
+There is a clear difference between the two distributions, with the former (goals scored by team playing in their home country) shifted towards larger values on average with respect to the latter. We statistically confirmed this difference by employing the Mann-Whitney U test that allows us to reject the null hypothesis (i.e. the two samples come from the same distribution) with a $p<0.05$. 
 
 Lastly, we examined which country has the highest average attendance. The left panel of the plot below highlights the top five countries by average attendance, regardless of how often they have hosted events. Interestingly, Yugoslavia leads the rankings, with an average of nearly 90,000 attendees, primarily due to the 1972-73 season when AFC Ajax defeated Juventus 1-0 in Belgrade. Because Yugoslavia did not host many finals, this one high-attendance event significantly boosts the country's average.
 Scotland follows with just under 80,000 attendees, but this finding is heavily influenced by the 1960 final (Real Madrid vs. Eintracht Frankfurt, 7-3), while the other two events barely reached $50,000$ attendees.
