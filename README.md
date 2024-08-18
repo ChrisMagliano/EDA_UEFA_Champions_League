@@ -113,6 +113,7 @@ Our analysis also reveals that the majority of matches, 51 out of 69, have been 
 <img src="https://github.com/user-attachments/assets/a0ada829-fe37-48f3-baf1-629939431f2d" alt="matches_wins" width="500"/>
 </p>
 
+Subsequently, we aimed at understanding whether there are any psychological advantages for a team playing UCL final in its own country.
 ![goals_home_visitor](https://github.com/user-attachments/assets/e46bda8f-af5e-46fb-8c27-55b11eee7633)
 
 <p align="center">
