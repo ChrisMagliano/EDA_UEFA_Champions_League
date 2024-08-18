@@ -134,14 +134,18 @@ As already mentioned in the case of 1957 final, the attendance fluctuations are 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e22e9e72-4911-4d18-8ddb-5770ad8aa606" alt="matches_wins" width="600"/>
 </p>
-There is a clear difference between the two distributions, with the former (goals scored by team playing in their home country) shifted towards larger values on average with respect to the latter. 
+There is a clear difference between the two distributions, with the former (goals scored by team playing in their home country) shifted towards larger values on average with respect to the latter. We statistically confirmed this difference by employing the *Mann-Whitney U test* that allows us to reject the null hypothesis (i.e. the two samples come from the same distribution) with a $p\approx 0.03$. 
 
-Lastly we investigated which is the country with the largest number of attendance on average. On the left panel of the plot below we show the top five countries per average attendance regardless of how many times they have been selected as host nation. In fact we find that 
-![top_venues](https://github.com/user-attachments/assets/3527bbfb-5908-47e5-8a68-94b7487d3946)
+Lastly, we examined which country has the highest average attendance. The left panel of the plot below highlights the top five countries by average attendance, regardless of how often they have hosted events. Interestingly, Yugoslavia leads the rankings, with an average of nearly 90,000 attendees, primarily due to the 1972-73 season when AFC Ajax defeated Juventus 1-0 in Belgrade. Because Yugoslavia did not host many finals, this one high-attendance event significantly boosts the country's average.
+Scotland follows with just under 80,000 attendees, but this finding is heavily influenced by the 1960 final (Real Madrid vs. Eintracht Frankfurt, 7-3), while the other two events barely reached $50,000$ attendees.
 
+![top_venues](https://github.com/user-attachments/assets/e096ea4d-6736-44ee-b71b-4ea88630c6db)
+Recognizing the limitations of this approach, we also narrowed the analysis to countries that have hosted at least four times (right panel). When the analysis is limited to countries that have hosted at least four times, the results change. Countries like England and Spain, which have hosted multiple finals over the years, show more consistent and high average attendance. This consistency suggests these countries have larger or more frequently used venues, better infrastructure, and possibly a stronger football culture, leading to consistently high turnout. Italy also ranks highly under this refined criterion, indicating a strong and consistent interest in football events.
 
+We conclude our analysis by showing the correlation heatmap between the features of the `finals` dataset seeking for correlations.
+![finals_corr](https://github.com/user-attachments/assets/a107bafc-20fa-438c-a9f4-a8922dc14048)
+We found no significant relationship, but there is a mildly positive correlation between attendance and instances where one of the finalists is playing in their home country as already discussed before.
 
-![finals_corr](https://github.com/user-attachments/assets/cb22587b-0e31-44aa-8fcb-3e3627905d99)
 
 ## Recommendations and Insights
 
