@@ -89,6 +89,7 @@ We conclude this subsection with the correlation matrix of some features of our 
 As expected the number of matches shows a slight positive correlation with the win ratio, as more wins typically result in more matches played. Similarly, the number of matches is negatively correlated with the loss ratio. Indeed, prior to 1991, the UEFA Champions League featured only a knockout format, so a single loss would eliminate a team from the competition. Since 1991, the competition has been revised to include a group stage, which ensures a minimum number of matches before teams advance to the knockout rounds (see [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) for reference).
 
 ### Finals analysis
+#### Scores and goals
 We keep our analysis by examining the available information about the UCL finals from 1955 to 2023. We started by observing that the most common score during a UCL final is **1-0** that occurred 19 times out of 69 finals ($\approx 27$ %). 
 ![top5_scores](https://github.com/user-attachments/assets/e150bb7b-b8c3-4541-b761-6610a30d2843)
 A 1-0 scoreline indicates a tightly contested match, reflecting the high stakes and defensive strategies typical of UCL finals. Teams in these high-pressure games often prioritize solid defense and tactical discipline, leading to fewer goals. This scoreline suggests that the finalists are well-matched, with defenses usually able to contain the attacking play, and a single goal often proving sufficient to secure victory.
@@ -123,18 +124,19 @@ The home-field advantage is also evident in the number of goals scored by the ho
 ![goals_home_visitor](https://github.com/user-attachments/assets/e46bda8f-af5e-46fb-8c27-55b11eee7633)
 We wanted to statistically test the difference between the two distributions using the [Mann-Whitney U test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test). We opted for this non-parametric algorithm because data are not normally distributed ([Shapiro-Wilk](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test) test returned $p<0.05$ in both cases) and both sample contain only 12 elements. However, the test yields a $p=0.09$ thus we cannot reject the null hypothesis with 95% confidence level.
 
-
-
+#### Attendance
+We conclude our analysis by examining the attendance at the UCL final over the years as shown in the plot below.
 ![attendance_years](https://github.com/user-attachments/assets/a58b7508-c719-4623-add2-1e9da7011fa5)
+The data reveals variations in attendance across different decades, with the highest recorded attendances being 124,000 in 1957 at the **Santiago Bernabéu Stadium** in Madrid and 127,621 in 1960 at **Hampden Park** in Glasgow. Both matches were victories for Real Madrid. While the substantial turnout in 1957 was expected due to the final being held at the Santiago Bernabéu, the even larger crowd in 1960 in Scotland underscores the extensive fanbase of Real Madrid. 
+We also highlight the significant drop in attendance during the 2020 final, which saw an attendance of zero due to the COVID-19 pandemic. This unprecedented situation led to the postponement and eventual rescheduling of the match, with the final being played in a restricted environment without fans in attendance. The pandemic's impact on global sporting events is starkly reflected in this anomaly, underscoring how external factors can drastically affect match-day experiences and attendance figures.
 
-![top_countries](https://github.com/user-attachments/assets/5865ba04-adc7-4e9f-8902-e2bc4bf06abf)
-
-
+As already mentioned in the case of 1957 final, the attendance fluctuations are mostly determined by the participation of a team playing the final in its own country. The boxplot below shows referes to the attendance if one of the two teams are playing in their home country.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e22e9e72-4911-4d18-8ddb-5770ad8aa606" alt="matches_wins" width="600"/>
 </p>
+There is a clear difference between the two distributions, with the 
 
-
+![top_countries](https://github.com/user-attachments/assets/5865ba04-adc7-4e9f-8902-e2bc4bf06abf)
 
 
 ![finals_corr](https://github.com/user-attachments/assets/cb22587b-0e31-44aa-8fcb-3e3627905d99)
