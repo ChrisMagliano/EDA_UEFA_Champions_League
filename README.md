@@ -128,15 +128,17 @@ We wanted to statistically test the difference between the two distributions usi
 We conclude our analysis by examining the attendance at the UCL final over the years as shown in the plot below.
 ![attendance_years](https://github.com/user-attachments/assets/a58b7508-c719-4623-add2-1e9da7011fa5)
 The data reveals variations in attendance across different decades, with the highest recorded attendances being 124,000 in 1957 at the **Santiago Bernabéu Stadium** in Madrid and 127,621 in 1960 at **Hampden Park** in Glasgow. Both matches were victories for Real Madrid. While the substantial turnout in 1957 was expected due to the final being held at the Santiago Bernabéu, the even larger crowd in 1960 in Scotland underscores the extensive fanbase of Real Madrid. 
-We also highlight the significant drop in attendance during the 2020 final, which saw an attendance of zero due to the COVID-19 pandemic. This unprecedented situation led to the postponement and eventual rescheduling of the match, with the final being played in a restricted environment without fans in attendance. The pandemic's impact on global sporting events is starkly reflected in this anomaly, underscoring how external factors can drastically affect match-day experiences and attendance figures.
+We also highlight the significant drop in attendance during the 2020 final, which saw an attendance of zero due to the COVID-19 pandemic. This unprecedented situation led to the postponement and eventual rescheduling of the match, with the final being played in a restricted environment without fans in attendance. The pandemic's impact on global sporting events is starkly reflected in this anomaly, underscoring how external factors can drastically affect match-day experiences and attendance figures. The effects of the pandemic were also evident in attendance in 2021, with only 33% of the do Dragao stadium's capacity open to supporters.
 
-As already mentioned in the case of 1957 final, the attendance fluctuations are mostly determined by the participation of a team playing the final in its own country. The boxplot below shows referes to the attendance if one of the two teams are playing in their home country.
+As already mentioned in the case of 1957 final, the attendance fluctuations are mostly determined by the participation of a team playing the final in its own country. The boxplot below shows the attendance if one of the two teams are playing in their home country or not. 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e22e9e72-4911-4d18-8ddb-5770ad8aa606" alt="matches_wins" width="600"/>
 </p>
-There is a clear difference between the two distributions, with the 
+There is a clear difference between the two distributions, with the former (goals scored by team playing in their home country) shifted towards larger values on average with respect to the latter. 
 
-![top_countries](https://github.com/user-attachments/assets/5865ba04-adc7-4e9f-8902-e2bc4bf06abf)
+Lastly we investigated which is the country with the largest number of attendance on average. On the left panel of the plot below we show the top five countries per average attendance regardless of how many times they have been selected as host nation. In fact we find that 
+![top_venues](https://github.com/user-attachments/assets/3527bbfb-5908-47e5-8a68-94b7487d3946)
+
 
 
 ![finals_corr](https://github.com/user-attachments/assets/cb22587b-0e31-44aa-8fcb-3e3627905d99)
