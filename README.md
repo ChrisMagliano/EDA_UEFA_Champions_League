@@ -78,7 +78,7 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 ![goals_per_decade](https://github.com/user-attachments/assets/c288a0d5-e4a5-4154-aeeb-7e2fe0a6545a)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a0ada829-fe37-48f3-baf1-629939431f2d" alt="matches_wins" width="1000"/>
+<img src="https://github.com/user-attachments/assets/a0ada829-fe37-48f3-baf1-629939431f2d" alt="matches_wins" width="500"/>
 </p>
 
 ![attendance_years](https://github.com/user-attachments/assets/a58b7508-c719-4623-add2-1e9da7011fa5)
@@ -87,12 +87,12 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e22e9e72-4911-4d18-8ddb-5770ad8aa606" alt="matches_wins" width="1000"/>
+<img src="https://github.com/user-attachments/assets/e22e9e72-4911-4d18-8ddb-5770ad8aa606" alt="matches_wins" width="600"/>
 </p>
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4bb6b523-4af8-4cf9-8178-ddec7c1f08fc" alt="top10_matches" width="400"/>
+<img src="https://github.com/user-attachments/assets/4bb6b523-4af8-4cf9-8178-ddec7c1f08fc" alt="top10_matches" width="500"/>
 </p>
 
 ![finals_corr](https://github.com/user-attachments/assets/cb22587b-0e31-44aa-8fcb-3e3627905d99)
