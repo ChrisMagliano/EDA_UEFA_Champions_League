@@ -89,9 +89,16 @@ We conclude this subsection with the correlation matrix of some features of our 
 As expected the number of matches shows a slight positive correlation with the win ratio, as more wins typically result in more matches played. Similarly, the number of matches is negatively correlated with the loss ratio. Indeed, prior to 1991, the UEFA Champions League featured only a knockout format, so a single loss would eliminate a team from the competition. Since 1991, the competition has been revised to include a group stage, which ensures a minimum number of matches before teams advance to the knockout rounds (see [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) for reference).
 
 ### Finals analysis
+We keep our analysis by examining the available information about the UCL finals from 1955 to 2023. We started by observing that the most common score during a UCL final is **1-0** that occurred 19 times out of 69 finals ($\approx 27\%$). 
 ![top5_scores](https://github.com/user-attachments/assets/e150bb7b-b8c3-4541-b761-6610a30d2843)
+A 1-0 scoreline indicates a tightly contested match, reflecting the high stakes and defensive strategies typical of UCL finals. Teams in these high-pressure games often prioritize solid defense and tactical discipline, leading to fewer goals. This scoreline suggests that the finalists are well-matched, with defenses usually able to contain the attacking play, and a single goal often proving sufficient to secure victory.
 
+Historically, UCL finals have often been decided by narrow margins, in fact **2-1** and **2-0** are respectively the second and third most frequent score ($10$ and $8$ times respectively). 
+This trend may reflect the competitive nature of the tournament, where the difference in quality between teams is minimal, leading to close encounters. However, it's also worth considering that tactics and game strategies evolve, and what has been observed in past finals might change as teams adapt their approaches to match the modern game. 
+In this regard, the plot below shows the mean total goals scored during a UCL final per decade. 
 ![goals_per_decade](https://github.com/user-attachments/assets/c288a0d5-e4a5-4154-aeeb-7e2fe0a6545a)
+
+The 1960s were particularly prolific, highlighted by the thrilling [7-3](https://www.uefa.com/uefachampionsleague/match/61542--real-madrid-vs-eintracht-frankfurt/) showdown between Real Madrid and Eintracht Frankfurt, a standout victory for *Los Blancos*. Over the decades, however, there has been a noticeable fluctuation in goal-scoring, with the 1980s and 2020s emerging as the least prolific periods, averaging just $1.40$ and $1.00$ total goals per match, respectively. We argue that 2020s only consists of three matches (Chelsea FC - Manchester City	1–0, Real Madrid - FC Liverpool 1-0 and Manchester City - Inter Milan 1-0) with respect to the $10$ matches of the 1980s.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a0ada829-fe37-48f3-baf1-629939431f2d" alt="matches_wins" width="500"/>
