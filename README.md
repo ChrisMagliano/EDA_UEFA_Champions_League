@@ -17,7 +17,7 @@ In this project I have performed a complete Data Exploration of the UEFA Champio
 
 ### Data Sources
 The datasets used in this project "UCL_AllTime_Performance_Table.csv" and "UCL_Finals_1955-2023.csv" were retrieved on [Kaggle](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023). Both offer detailed insights into match results and team performances spanning decades of Europe's top club football competition. In particular `UCL_AllTime_Performance_Table.csv` contains information about the UCL teams performances (e.g. number of matches, wins, draws and losses), while `UCL_Finals_1955-2023.csv` includes several metrics about each UCL final as the winners, runners-up, attendance etc.
-We acknwoledge the [Fardifa Fathmiul Alam](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023 for the detailed data files description listed below.
+We acknwoledge [Fardifa Fathmiul Alam](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023) for the detailed data files description listed below.
 
 **Finals Details (1955-56 to 2022-23)**
 - `Season`: The football season during which the final was played.
