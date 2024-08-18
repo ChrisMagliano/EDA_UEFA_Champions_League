@@ -86,7 +86,7 @@ This result would make up a zero order step for a Machine Learning predictive al
 
 We conclude this subsection with the correlation matrix of some features of our dasets as shown below.
 ![all_time_corr](https://github.com/user-attachments/assets/3737b366-1b11-4caa-ab16-0c661ee5f2c3)
-As expected the number of matches shows a slight positive correlation with the win ratio, as more wins typically result in more matches played. Similarly, the number of matches is negatively correlated with the loss ratio. Indeed, prior to 1991, the UEFA Champions League featured only a knockout format, so a single loss would eliminate a team from the competition. Since 1991, the competition has been revised to include a group stage, which ensures a minimum number of matches before teams advance to the knockout rounds.
+As expected the number of matches shows a slight positive correlation with the win ratio, as more wins typically result in more matches played. Similarly, the number of matches is negatively correlated with the loss ratio. Indeed, prior to 1991, the UEFA Champions League featured only a knockout format, so a single loss would eliminate a team from the competition. Since 1991, the competition has been revised to include a group stage, which ensures a minimum number of matches before teams advance to the knockout rounds (see [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) for reference).
 
 ### Finals analysis
 ![top5_scores](https://github.com/user-attachments/assets/e150bb7b-b8c3-4541-b761-6610a30d2843)
@@ -123,3 +123,4 @@ As expected the number of matches shows a slight positive correlation with the w
 ## References
 [Manchester City UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52919--man-city/)
 [Paris Saint-Germain UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52747--paris-sg/)
+[UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) 
