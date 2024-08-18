@@ -108,8 +108,15 @@ The fluctuations in UCL final's goal-scoring over the years might be attributed 
 
 We stress that these are only a few possible factors influencing the total goal scored in a UCL final across the years. However, there exist many other random or psychological factors which highly influence the final result.
 
+Our analysis also reveals that the majority of matches, 51 out of 69, have been decided during regular time, showcasing the dominance of teams in securing a result within the standard 90 minutes. However, for more evenly matched finals, the outcome has extended beyond regular time: 11 finals were decided by penalty shoot-outs, 5 in extra time, and 2 required a [replay](https://en.wikipedia.org/wiki/1974_European_Cup_final). These statistics highlight the intense and competitive nature of the tournament, where a significant number of finals required additional time to determine a winner.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a0ada829-fe37-48f3-baf1-629939431f2d" alt="matches_wins" width="500"/>
+</p>
+
+![goals_home_visitor](https://github.com/user-attachments/assets/e46bda8f-af5e-46fb-8c27-55b11eee7633)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6945f880-2911-4e37-b6c4-8a782c9c68c6" alt="top10_matches" width="500"/>
 </p>
 
 ![attendance_years](https://github.com/user-attachments/assets/a58b7508-c719-4623-add2-1e9da7011fa5)
@@ -122,13 +129,9 @@ We stress that these are only a few possible factors influencing the total goal 
 </p>
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/6945f880-2911-4e37-b6c4-8a782c9c68c6" alt="top10_matches" width="500"/>
-</p>
+
 
 ![finals_corr](https://github.com/user-attachments/assets/cb22587b-0e31-44aa-8fcb-3e3627905d99)
-
-![goals_home_visitor](https://github.com/user-attachments/assets/e46bda8f-af5e-46fb-8c27-55b11eee7633)
 
 ## Recommendations and Insights
 
