@@ -13,10 +13,10 @@
  
 
 ### Project Overview
-In this project I have performed a complete Data Exploration of the UEFA Champions League history from 1955-56 season through to the 2022-23 season.
+In this project I have performed a complete Data Exploration of the UEFA Champions League (UCL) history from the 1955-56 season up to the 2022-23 season. Through the analysis of multiple details on matches and team performances, my goal is to uncover patterns, establish benchmarks, and achieve a more profound understanding of the UCL competition.
 
 ### Data Sources
-The datasets used in this project "UCL_AllTime_Performance_Table.csv" and "UCL_Finals_1955-2023.csv" were retrieved on [Kaggle](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023). 
+The datasets used in this project "UCL_AllTime_Performance_Table.csv" and "UCL_Finals_1955-2023.csv" were retrieved on [Kaggle](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023). Both offer detailed insights into match results and team performances spanning decades of Europe's top club football competition. In particular `UCL_AllTime_Performance_Table.csv` contains information about the UCL teams performances (e.g. number of matches, wins, draws and losses), while `UCL_Finals_1955-2023.csv` includes several metrics about each UCL final as the winners, runners-up, attendance etc.
 
 ### Tools
 The whole data preprocessing and visualization has been performed by means of [Python](https://www.python.org/downloads/) programming language and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the "UEFA_Champions_League.ipynb" file.
