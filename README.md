@@ -117,7 +117,6 @@ Next, we sought to determine whether playing a UEFA Champions League final in on
 <div style="float: left; margin-right: 10px;">
     <img src="https://github.com/user-attachments/assets/6945f880-2911-4e37-b6c4-8a782c9c68c6" width="500">
 </div>
-
 As shown in the pie chart above, teams playing on home soil have won the UCL final 58.3% of the time, compared to a 41.7% loss rate. This was expected since the familiarity with the stadium, local climate, and pitch conditions likely give the home team a physical advantage. Additionally, the psychological boost from having the majority of the crowd's support can enhance player performance and confidence. These elements, combined with reduced travel fatigue, might contribute to the observed increase in success for home-country teams.
 The home-field advantage is also evident in the number of goals scored by the home team compared to those by the visiting team. The plot below clearly shows that the distribution of goals for the home team is skewed towards higher values. Indeed, the mean value of total goals scored by the home team is $1.67$ compared to $1$ for visiting club.
 ![goals_home_visitor](https://github.com/user-attachments/assets/e46bda8f-af5e-46fb-8c27-55b11eee7633)
