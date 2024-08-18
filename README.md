@@ -61,6 +61,36 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 
 ## Results and findings
 
+![top10_matches](https://github.com/user-attachments/assets/0eb98b93-e4a6-4e21-81ba-bb6c48722c3d)
+
+![top10_wlratio](https://github.com/user-attachments/assets/a1c8e833-0b01-4240-925c-368bc56efb37)
+
+![matches_wins](https://github.com/user-attachments/assets/cf4a85c5-b7c9-4b65-8128-06a946cc2231)
+
+![matches_wins_fit](https://github.com/user-attachments/assets/3659a916-082f-4ea7-b067-6f4870651d2a)
+
+![all_time_corr](https://github.com/user-attachments/assets/3737b366-1b11-4caa-ab16-0c661ee5f2c3)
+
+![top_bot_finalist](https://github.com/user-attachments/assets/53ef8515-fae3-4f81-a9bb-0150c57a062e)
+
+![top5_scores](https://github.com/user-attachments/assets/e150bb7b-b8c3-4541-b761-6610a30d2843)
+
+![goals_per_decade](https://github.com/user-attachments/assets/c288a0d5-e4a5-4154-aeeb-7e2fe0a6545a)
+
+![notes_pie](https://github.com/user-attachments/assets/a0ada829-fe37-48f3-baf1-629939431f2d)
+
+![attendance_years](https://github.com/user-attachments/assets/a58b7508-c719-4623-add2-1e9da7011fa5)
+
+![top_countries](https://github.com/user-attachments/assets/5865ba04-adc7-4e9f-8902-e2bc4bf06abf)
+
+![attendance_home](https://github.com/user-attachments/assets/e22e9e72-4911-4d18-8ddb-5770ad8aa606)
+
+![pie_home](https://github.com/user-attachments/assets/4bb6b523-4af8-4cf9-8178-ddec7c1f08fc)
+
+![finals_corr](https://github.com/user-attachments/assets/cb22587b-0e31-44aa-8fcb-3e3627905d99)
+
+![goals_home_visitor](https://github.com/user-attachments/assets/e46bda8f-af5e-46fb-8c27-55b11eee7633)
+
 ## Recommendations and Insights
 
 
