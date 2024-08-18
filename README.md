@@ -60,8 +60,9 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 
 
 ## Results and findings
-
+Our comprehensive analysis of the UCL from the 1955-56 season to the 2022-23 season reveals several key insights into the competition's evolution and dynamics. Firstly we examined which teams dominate the competition based on their appearences and wins. 
 ![top10_matches](https://github.com/user-attachments/assets/0eb98b93-e4a6-4e21-81ba-bb6c48722c3d)
+The previous plot clearly shows that **Real Madrid** is the most notable team in UCL competition with almost 500 games and nearly 300 wins. The second team per played matches is **Bayern Munich** followed by **FC Barcelona**. Both teams played more than 300 matches in UCL but less than 400.
 
 ![top10_wlratio](https://github.com/user-attachments/assets/a1c8e833-0b01-4240-925c-368bc56efb37)
 
