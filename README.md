@@ -62,9 +62,12 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 ## Results and findings
 Our comprehensive analysis of the UCL from the 1955-56 season to the 2022-23 season reveals several key insights into the competition's evolution and dynamics. Firstly we examined which teams dominate the competition based on their appearences and wins. 
 ![top10_matches](https://github.com/user-attachments/assets/0eb98b93-e4a6-4e21-81ba-bb6c48722c3d)
-The previous plot clearly shows that **Real Madrid** is the most notable team in UCL competition with almost 500 games and nearly 300 wins. The second team per played matches is **Bayern Munich** followed by **FC Barcelona**. Both teams played more than 300 matches in UCL but less than 400.
+The previous plot clearly shows that **Real Madrid** is the most notable team in UCL competition with almost 500 games and nearly 300 wins.
+The second team per played matches is **Bayern Munich** followed by **FC Barcelona**. Both teams played more than 300 matches in UCL but less than 400. It is impressive to notice that Real Madrid's wins almost correspondly to the total number of matches played by **Juventus** in its history, that is fourth in this classification.
+Despite its clear dominance, this plot also suggests that Real Madrid is not the best team in terms of win/loss ratio (W/L), as shown in the plot below.
 
 ![top10_wlratio](https://github.com/user-attachments/assets/a1c8e833-0b01-4240-925c-368bc56efb37)
+Indeed, Bayern Munich and FC Barcelona have slightly higher win/loss ratios compared to Real Madrid. Notably, the plot also highlights the emergence of teams such as **Manchester City** and **Paris Saint-Germain**, which are not among the top 10 teams in terms of UCL appearances. This suggests that while these teams lack a long-standing history in the UCL, they have become increasingly influential in the European football landscape in recent years ([Man City UCL](https://www.uefa.com/uefachampionsleague/history/clubs/52919--man-city/), [PSG UCL](https://www.uefa.com/uefachampionsleague/history/clubs/52747--paris-sg/)).   
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b9bd6ad7-69eb-4562-9a4c-1d59c070f3e3" alt="matches_wins" width="1000"/>
@@ -106,4 +109,5 @@ The previous plot clearly shows that **Real Madrid** is the most notable team in
 ## Limitations
 
 ## References
-None.
+[Manchester City UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52919--man-city/)
+[Paris Saint-Germain UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52747--paris-sg/)
