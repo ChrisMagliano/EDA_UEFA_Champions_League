@@ -121,7 +121,7 @@ As shown in the pie chart above, teams playing on home soil have won the UCL fin
 
 The home-field advantage is also evident in the number of goals scored by the home team compared to those by the visiting team. The plot below clearly shows that the distribution of goals for the home team is skewed towards higher values. Indeed, the mean value of total goals scored by the home team is $1.67$ compared to $1$ for visiting club.
 ![goals_home_visitor](https://github.com/user-attachments/assets/e46bda8f-af5e-46fb-8c27-55b11eee7633)
-We wanted to statistically test the difference between the two distributions using the [Mann-Whitney U test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test). We opted for this non-parametric algorithm because data are not normally distributed ([Shapiro-Wilk](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test) test returned $p<0.05$ in both cases) and both sample contain only 12 elements. However, the test yields a $p=0.09$ thus we cannot reject the null hypothesis with $95\%$ confidence level.
+We wanted to statistically test the difference between the two distributions using the [Mann-Whitney U test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test). We opted for this non-parametric algorithm because data are not normally distributed ([Shapiro-Wilk](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test) test returned $p<0.05$ in both cases) and both sample contain only 12 elements. However, the test yields a $p=0.09$ thus we cannot reject the null hypothesis with $95\% $ confidence level.
 
 
 
