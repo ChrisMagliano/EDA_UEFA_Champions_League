@@ -121,6 +121,6 @@ As expected the number of matches shows a slight positive correlation with the w
 ## Limitations
 
 ## References
-[Manchester City UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52919--man-city/)
-[Paris Saint-Germain UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52747--paris-sg/)
-[UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) 
+1. [Manchester City UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52919--man-city/)
+2. [Paris Saint-Germain UCL History](https://www.uefa.com/uefachampionsleague/history/clubs/52747--paris-sg/)
+3. [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) 
