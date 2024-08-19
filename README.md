@@ -144,7 +144,7 @@ Scotland follows with just under 80,000 attendees, but this finding is heavily i
 Recognizing the limitations of this approach, we also narrowed the analysis to countries that have hosted at least four times (right panel). When the analysis is limited to countries that have hosted at least four times, the results change. Countries like England and Spain, which have hosted multiple finals over the years, show more consistent and high average attendance. This consistency suggests these countries have larger or more frequently used venues, better infrastructure, and possibly a stronger football culture, leading to consistently high turnout. Italy also ranks highly under this refined criterion, indicating a strong and consistent interest in football events.
 
 We conclude our analysis by showing the correlation heatmap between the features of the `finals` dataset seeking for correlations.
-![finals_corr](https://github.com/user-attachments/assets/a107bafc-20fa-438c-a9f4-a8922dc14048)
+![finals_corr](https://github.com/user-attachments/assets/6d08b60b-30d7-4737-882c-092da308fcd6)
 We found no significant relationship, but there is a mildly positive correlation between attendance and instances where one of the finalists is playing in their home country as already discussed before.
 
 
