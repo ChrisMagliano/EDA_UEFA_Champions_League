@@ -93,9 +93,21 @@ Thus, this analysis would indicate that the process of learning and gaining expe
 </p>
 This result would make up a zero order step for a Machine Learning predictive algorithm as well as an interesting case of study for behavioral science. 
 
-We conclude this subsection with the correlation matrix of some features of our dasets as shown below.
+Successively we analyzed the correlation matrix of some features of our dasets as shown below.
 ![all_time_corr](https://github.com/user-attachments/assets/3737b366-1b11-4caa-ab16-0c661ee5f2c3)
 As expected the number of matches shows a slight positive correlation with the win ratio, as more wins typically result in more matches played. Similarly, the number of matches is negatively correlated with the loss ratio. Indeed, prior to 1991, the UEFA Champions League featured only a knockout format, so a single loss would eliminate a team from the competition. Since 1991, the competition has been revised to include a group stage, which ensures a minimum number of matches before teams advance to the knockout rounds (see [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) for reference).
+
+To conclude this subsection, we will examine the distribution of UCL titles across Europe and over the years. Our analysis reveals that the distribution of these prestigious trophies is not uniform throughout the continent. Rather, the majority of the titles are concentrated in Western Europe. Specifically, Spain leads with 19 titles, followed by England with 15, and Italy with 12. Germany and the Netherlands also have a notable presence, with 9 and 6 titles, respectively.
+![geo_pandas](https://github.com/user-attachments/assets/a686eea1-101d-488c-b5a1-f397f0c7b296)
+In contrast, Eastern Europe’s representation is minimal. The region’s tally is limited to former Yugoslavian countries—now represented as Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, and Serbia—along with Romania, each securing just one trophy. This disparity highlights a significant imbalance in the distribution of UCL titles, with Northern Europe also showing a noticeable lack of trophies. This analysis underscores the concentration of UCL success in Western European nations and points to a broader geographical disparity in the distribution of these prestigious awards.
+The uneven distribution of UEFA Champions League titles across Europe primarily stems from several key factors:
+- Financial Power: Western European clubs, particularly from Spain, England, and Italy, have historically had more financial resources, allowing them to invest heavily in top players and facilities.
+- Strong Domestic Leagues: Competitive domestic leagues in these regions help clubs better prepare for European competitions, contributing to their success.
+- Advanced Infrastructure: State-of-the-art stadiums and training facilities in Western Europe enhance team performance.
+- Global Scouting Networks: Western European clubs benefit from extensive scouting and recruitment networks, attracting top global talent.
+- Historical Success: Past achievements boost the reputation and appeal of clubs from these regions, creating a self-reinforcing cycle of success.
+In contrast, Eastern and Northern European clubs face economic and infrastructural challenges that limit their ability to compete at the highest level.
+
 
 ### Finals analysis
 #### Scores and goals
