@@ -176,6 +176,7 @@ We found no significant relationship, but there is a mildly positive correlation
 
 
 ## Recommendations and Insights
+### Insights
 - **Dominance and Evolution of European Football**: **Real Madrid** has clearly dominated the UEFA Champions League with the highest number of appearances and victories. However, when considering win/loss ratios, **Bayern Munich** and **FC Barcelona** show slightly better efficiency, highlighting that dominance is not solely about the number of wins but also about consistency.
 Teams like **Manchester City** and **Paris Saint-Germain**, though not historically prominent in the UCL, have emerged as significant contenders. This indicates a shift in European football dynamics, where financial investment and strategic management are reshaping traditional power structures.
 
@@ -189,7 +190,7 @@ Teams like **Manchester City** and **Paris Saint-Germain**, though not historica
 
 - **Attendance Patterns and Influences**: Attendance at UCL finals has varied significantly over the years, influenced by factors such as the participation of local teams, venue capacity, and external events like the COVID-19 pandemic. Countries with strong football cultures and infrastructure, like England and Spain, consistently attract large crowds, underscoring the importance of venue and host country in the fan experience.
   
-Recommendations
+### Recommendations
 - **Strategic Investment in Emerging Clubs**: Clubs should prioritize gaining experience in international competitions, as it is a key factor in improving win probabilities. Youth development programs and strategic participation in European leagues could help newer clubs build the necessary expertise.
 
 - **Balanced Tactical Approach in Finals**: Given the prevalence of low-scoring finals, teams might consider adopting balanced tactics that focus on solid defense while being prepared to capitalize on counter-attacks. Understanding historical scoring trends can guide tactical decisions in high-pressure matches.
