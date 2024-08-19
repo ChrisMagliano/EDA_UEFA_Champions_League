@@ -43,6 +43,15 @@ We acknwoledge [Fardifa Fathmiul Alam](https://www.kaggle.com/datasets/fardifaal
 ### Tools
 The whole data preprocessing and visualization has been performed by means of [Python](https://www.python.org/downloads/) programming language and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the `UEFA_Champions_League.ipynb` file.
 
+We also used the following Python packages:
+- Pandas: 2.2.2
+- Matplotlib: 3.9.2
+- NumPy: 2.0.1
+- Missingno: 0.5.2
+- Seaborn: 0.13.2
+- Scipy: 1.13.1
+- GeoPandas: 1.0.1
+
 ### Data Cleaning and Preparation
 The first step of this project regards the data loading and preprocessing. I performed the following taks:
 1. **Data loading and inspection**;
